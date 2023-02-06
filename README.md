@@ -1,5 +1,9 @@
 # Python-Code-
 
+![WFM Brand Segmentation (StrataScratch)](https://user-images.githubusercontent.com/103982094/217007430-92450f8f-4508-4518-947c-6bb27112fb52.png)
+
+
+
 ![3 games in 10 LINES of Python CODE!](https://user-images.githubusercontent.com/103982094/216402000-7b721a39-d379-48bf-801e-e3b587c585c4.png)
 
 
