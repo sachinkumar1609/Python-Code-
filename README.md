@@ -1,4 +1,4 @@
-# Python-Code-
+# Python Code Snippets
 
 ![WFM Brand Segmentation (StrataScratch)](https://user-images.githubusercontent.com/103982094/217007430-92450f8f-4508-4518-947c-6bb27112fb52.png)
 
