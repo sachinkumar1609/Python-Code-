@@ -10,3 +10,7 @@
 ![Lowest Priced Orders](https://user-images.githubusercontent.com/103982094/212527081-52b40fc0-cafe-4e44-9c47-308729e142d4.png)
 
 ![Counting Bits](https://user-images.githubusercontent.com/103982094/213252777-7258c41f-2032-4c02-b4e2-8a2e40116dbe.png)
+
+|No.| Solution |
+|-|-|
+|1| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7018192404918759424-T8OG?utm_source=share&utm_medium=member_desktop)
