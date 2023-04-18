@@ -14,3 +14,7 @@
 |No.| Solution |
 |-|-|
 |1| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7018192404918759424-T8OG?utm_source=share&utm_medium=member_desktop)
+|2| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7018932028821680129-clSg?utm_source=share&utm_medium=member_desktop)
+|3| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_github-sachinkumar1609python-projects-activity-7019660479031586816-clDc?utm_source=share&utm_medium=member_desktop)
+|4| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7021460584751587328-mGLO?utm_source=share&utm_medium=member_desktop)
+|5| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7022274948282892289-EBWu?utm_source=share&utm_medium=member_desktop)
