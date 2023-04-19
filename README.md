@@ -18,3 +18,9 @@
 |3| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_github-sachinkumar1609python-projects-activity-7019660479031586816-clDc?utm_source=share&utm_medium=member_desktop)
 |4| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7021460584751587328-mGLO?utm_source=share&utm_medium=member_desktop)
 |5| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7022274948282892289-EBWu?utm_source=share&utm_medium=member_desktop)
+|6| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-pythonprogramming-60daysofcodechallenge-activity-7024005063635283969-1q4s?utm_source=share&utm_medium=member_desktop)
+|7| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_github-sachinkumar1609python-projects-activity-7024399081229692928-TZAW?utm_source=share&utm_medium=member_desktop)
+|8| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_algorithmic-trading-using-python-activity-7024730304787398656-fyda?utm_source=share&utm_medium=member_desktop)
+|9| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-python-pythonprogramming-activity-7026900722973577216-Sf5P?utm_source=share&utm_medium=member_desktop)
+|10| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_top-7-most-common-errors-in-python-activity-7027337770184368128-hUUz?utm_source=share&utm_medium=member_desktop)
+
