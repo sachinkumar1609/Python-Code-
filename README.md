@@ -23,4 +23,10 @@
 |8| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_algorithmic-trading-using-python-activity-7024730304787398656-fyda?utm_source=share&utm_medium=member_desktop)
 |9| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-python-pythonprogramming-activity-7026900722973577216-Sf5P?utm_source=share&utm_medium=member_desktop)
 |10| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_top-7-most-common-errors-in-python-activity-7027337770184368128-hUUz?utm_source=share&utm_medium=member_desktop)
+|11| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-customers-pythonprogramming-activity-7028363647571628032-4ywa?utm_source=share&utm_medium=member_desktop)
+|12| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-glob-module-javatpoint-activity-7029121487676542976-8OLz?utm_source=share&utm_medium=member_desktop)
+|13| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-github-pythonprogramming-activity-7033802405439750144-iGpL?utm_source=share&utm_medium=member_desktop)
+|14| [Explnation Link](https://www.linkedin.com/posts/sachintukumar_python-github-coder-activity-7034150113782444032-o5wk?utm_source=share&utm_medium=member_desktop)
+|15| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_python-program-activity-7034514706803351553-NotF?utm_source=share&utm_medium=member_desktop)
+|16| [Explanation Link](https://www.linkedin.com/posts/sachintukumar_qr-code-activity-7034876587288182784-pEIi?utm_source=share&utm_medium=member_desktop)
 
